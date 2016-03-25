@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/BrandonT932/galvanize/js-oop-zoo/src'
+let g:netrw_dirhist_2='/Users/BrandonT932/galvanize/js-ajax-github'
+let g:netrw_dirhist_3='/Users/BrandonT932/galvanize/js-ajax-github/js'
+let g:netrw_dirhist_4='/Users/BrandonT932/galvanize/weatherBike'
+let g:netrw_dirhist_5='/Users/BrandonT932/galvanize/weatherBike/js'
